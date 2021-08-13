@@ -1,0 +1,4 @@
+config/config.yml
+bin/*
+nebula
+nebula-cert
